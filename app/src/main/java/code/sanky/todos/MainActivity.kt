@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
             ,android.R.id.text1 , todos )
 
         val db = MyDBHelpher(this).writableDatabase
-
         binding.lvTodos.adapter = todoAdapter
 
         fun refreshTodoList(){
