@@ -1,0 +1,4 @@
+code/sanky/todos/databinding/ActivityMainBinding.java
+ code.sanky.todos.databinding.ActivityMainBinding
+code/sanky/todos/BuildConfig.java
+ code.sanky.todos.BuildConfig
